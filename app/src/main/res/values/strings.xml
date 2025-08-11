@@ -1,0 +1,32 @@
+<resources>
+    <string name="onebite">OneBite</string>
+    <string name="app_name">One Bite</string>
+    <string name="shopping_cart">Shopping Cart</string>
+    <string name="cart_empty_message">Your cart is empty!</string>
+    <string name="item_removed_message">%s removed from cart</string>
+    <string name="undo">UNDO</string>
+    <string name="checkout_with_total">Checkout • %s</string>
+    <string name="confirm_order_title">🍕 Confirm Your Order</string>
+    <string name="place_order">Place Order</string>
+    <string name="review_cart">Review Cart</string>
+    <string name="customer_label">Customer: %s</string>
+    <string name="order_details_label">Order Details:</string>
+    <string name="quantity_price_format">Qty: %d × %s</string>
+    <string name="subtotal_format">Subtotal: %s</string>
+    <string name="subtotal_label">Subtotal:</string>
+    <string name="tax_label">Tax (8.5%):</string>
+    <string name="total_label">Total:</string>
+    <string name="estimated_delivery">Estimated delivery: 25-35 minutes</string>
+    <string name="placing_order">Placing Order...</string>
+    <string name="order_success_title">🎉 Order Placed Successfully!</string>
+    <string name="order_success_message">Order ID: %s\nTotal: %s\n\nThank you for your order!</string>
+    <string name="ok">OK</string>
+    <string name="cart_pizza_image_desc">Image of pizza in cart</string>
+    <string name="increase_quantity">Increase quantity</string>
+    <string name="decrease_quantity">Decrease quantity</string>
+    <string name="remove">Remove</string>
+    <string name="remove_item">remove_item\n</string>
+    <string name="date_time">Date &amp; Time:</string>
+    <string name="free_delivery_above_250">🚚 Free Delivery above ₹250</string>
+
+</resources>

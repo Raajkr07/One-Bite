@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "659559062683",
+    "project_id": "one-bite-b1091",
+    "storage_bucket": "one-bite-b1091.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659559062683:android:56563697cfe34cce28fa3e",
+        "android_client_info": {
+          "package_name": "com.example.onebite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJiWm7znGxXY3phQL8_VOLaBEEX4UngUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

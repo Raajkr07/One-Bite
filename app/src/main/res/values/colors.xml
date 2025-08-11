@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ────────── Base Colors ────────── -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="red">#F44336</color>
+    <color name="green">#004030</color>
+    <color name="navyBlack">#273F4F</color>
+    <color name="light_gray">#F5F5F5</color>
+    <color name="dark_gray">#424242</color>
+
+    <!-- ────────── Primary Brand Colors (Pizza Theme) ────────── -->
+    <color name="pizza_red">#D32F2F</color>
+    <color name="pizza_red_dark">#B71C1C</color>
+    <color name="pizza_orange">#FF9800</color>
+    <color name="pizza_orange_dark">#F57C00</color>
+
+    <!-- ────────── Material Theme Colors ────────── -->
+    <!-- Primary -->
+    <color name="your_primary_color">@color/pizza_red</color>
+    <color name="your_primary_variant">@color/pizza_red_dark</color>
+    <color name="your_on_primary">#FFFFFF</color>
+
+    <!-- Secondary -->
+    <color name="your_secondary_color">@color/pizza_orange</color>
+    <color name="your_on_secondary">#000000</color>
+
+    <!-- ────────── White Variations (Transparency) ────────── -->
+    <color name="white_20">#33FFFFFF</color>
+    <color name="white_30">#4DFFFFFF</color>
+    <color name="white_50">#80FFFFFF</color>
+    <color name="white_60">#99FFFFFF</color>
+    <color name="white_70">#B3FFFFFF</color>
+    <color name="white_80">#CCFFFFFF</color>
+    <color name="white_90">#E6FFFFFF</color>
+
+    <!-- ────────── UI Component Colors ────────── -->
+    <color name="input_background">#1AFFFFFF</color>
+    <color name="input_stroke">#33FFFFFF</color>
+    <color name="social_button_stroke">#26FFFFFF</color>
+    <color name="overlay_color">#1A000000</color>
+    <color name="glassmorphism_background">#26FFFFFF</color>
+
+    <!-- ────────── Splash Screen Colors ────────── -->
+    <color name="splash_overlay">#26000000</color>
+    <color name="glassmorphism_splash">#40FFFFFF</color>
+    <color name="card_stroke_splash">#60FFFFFF</color>
+    <color name="logo_background">#E8F4FD</color>
+    <color name="text_shadow">#80000000</color>
+
+    <!-- ────────── Accent Colors ────────── -->
+    <color name="accent_orange">#FF8A50</color>
+    <color name="accent_yellow">#FFD93D</color>
+    <color name="accent_red">#FF6B6B</color>
+    <color name="accent_green">#4ECDC4</color>
+
+    <!-- ────────── Gradient Colors ────────── -->
+    <color name="gradient_start">#6A00FF</color>
+    <color name="gradient_middle">#FF006A</color>
+    <color name="gradient_end">#00D4FF</color>
+
+    <!-- ────────── Floating Element Colors ────────── -->
+    <color name="floating_purple">#7C3AED</color>
+    <color name="floating_pink">#EC4899</color>
+    <color name="floating_cyan">#06B6D4</color>
+
+    <!-- ────────── Button Gradient Colors ────────── -->
+    <color name="button_gradient_start">#667EEA</color>
+    <color name="button_gradient_end">#764BA2</color>
+
+    <!-- ────────── System Colors ────────── -->
+    <color name="design_default_color_background">#FFFFFF</color>
+
+</resources>
